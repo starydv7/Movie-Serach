@@ -2,7 +2,7 @@
 
 This Repository is contain the Source code of the __IMDB Ratings App__
 
-![Home Page](/movieSearchEngine/images/movie.png "Home Page")
+![Home Page](/images/movie.png "Home Page")
 
 You can see the website [HERE](https://cozy-capybara-16896a.netlify.app/)
 
