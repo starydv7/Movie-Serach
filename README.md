@@ -1,31 +1,30 @@
 # IMDB App
 
-This Repository is contain the Source code of the __IMDB Ratings App__
+This Repository is contain the Source code of the __Movie-Rating-Application__
 
 ![Home Page](/images/movie.png "Home Page")
 
-You can see the website [HERE](https://cozy-capybara-16896a.netlify.app/)
+Link to see Whole application: [HERE](https://pawan-yadav-movie-search.netlify.app/)
 
 ### Introduction (Project Aim)
 <hr/>
 This website help the users to check popular films and users can find movies rating and they can search movies and they can find movies
 
-[Pawan Yadav](https://github.com/starydv7)
+
 
 ### Technologies
 <hr />
 
 - HTML
 - CSS
-- JAVASCRIPT
+
 
 ### Features
 <hr/>
 
-  - Account----
+  - Account
   - Registration
   - Login
-  - Dashboard---
   - Top 50+ Movies Details
   - Search movies by Names 
 
