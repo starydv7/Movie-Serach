@@ -1,4 +1,4 @@
-# IMDB App
+# Movie Rating App
 
 This Repository is the Source code of the __Movie-Rating-Application__
 
